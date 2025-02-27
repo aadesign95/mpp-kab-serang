@@ -6,7 +6,7 @@
             <div class="hero-bg" style="background: url('{{ asset('images/hero-01.png') }}') no-repeat center center/cover;">
             </div>
             <div class="hero-content">
-                <h1>Siap Melayani dan Memudahkan</h1>
+                <h1>Pelayanan Cepat, Mudah, dan Nyaman</h1>
                 <p>Kami hadir untuk memberikan layanan terbaik dengan proses yang lebih mudah dan cepat.</p>
                 <a href="#" class="btn btn-main">Pelajari Lebih Lanjut</a>
             </div>
