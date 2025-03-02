@@ -60,5 +60,23 @@
                 </div>
             </div>
         </section>
+
+        {{-- Profile --}}
+        <section>
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                    <h2 class="section-title">Profile</h2>
+                    <p>
+                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi deleniti eos enim, maxime illum
+                        fugit quis blanditiis itaque adipisci molestias quibusdam veniam! Praesentium nostrum iste corrupti
+                        iure libero quibusdam repellendus!
+                    </p>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                    <img src="https://distrikbantennews.com/wp-content/uploads/2024/09/IMG_20240918_210848.webp"
+                        alt="profile" class="w-100 rounded">
+                </div>
+            </div>
+        </section>
     </div>
 @endsection
